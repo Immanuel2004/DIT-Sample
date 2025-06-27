@@ -1,0 +1,12 @@
+streamlit
+pandas
+duckdb
+langchain
+openai
+tiktoken
+plotly
+seaborn
+matplotlib
+python-dotenv
+langchain-community
+fpdf

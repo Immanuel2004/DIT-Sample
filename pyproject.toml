@@ -1,0 +1,20 @@
+[project]
+name = "dynamic-impact-tool-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "duckdb>=0.10.0",
+    "fpdf>=1.7.2",
+    "langchain>=0.1.14",
+    "langchain-community>=0.3.26",
+    "matplotlib>=3.8.4",
+    "openai>=1.25.0",
+    "pandas>=2.2.0",
+    "plotly>=5.18.0",
+    "python-dotenv>=1.0.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.33.0",
+    "tiktoken>=0.5.1",
+]
